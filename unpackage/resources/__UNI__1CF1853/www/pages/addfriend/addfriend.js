@@ -1,0 +1,13 @@
+
+      !(function(){
+        var uniAppViewReadyCallback = function(){
+          setCssToHead([".",[1],"title.",[1],"data-v-9de56950{margin-top:",[0,100],";font-size:1.1em;text-align:center}\n.",[1],"uni-list-cell.",[1],"data-v-9de56950{padding-left:5%;padding-right:2%;-webkit-box-align:center;-webkit-align-items:center;align-items:center;width:93%}\n.",[1],"uni-list-cell .",[1],"uni-input.",[1],"data-v-9de56950{-webkit-box-flex:1;-webkit-flex:1;flex:1;height:",[0,65],";width:auto;background:#fff;padding-left:",[0,10],";font-family:verdana!important;overflow:hidden}\n.",[1],"head.",[1],"data-v-9de56950{padding:0 ",[0,40],";margin-top:",[0,20],";height:",[0,100],"}\n.",[1],"segmented-control.",[1],"data-v-9de56950{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;width:100%;font-size:",[0,30],";border-radius:",[0,12],";box-sizing:border-box;margin:0 auto;overflow:hidden}\n.",[1],"segmented-control.",[1],"button.",[1],"data-v-9de56950{border:",[0,1]," solid}\n.",[1],"segmented-control.",[1],"text.",[1],"data-v-9de56950{border:0;border-radius:",[0,0],"}\n.",[1],"segmented-control-item.",[1],"data-v-9de56950{min-width:",[0,150],";text-align:center;line-height:",[0,70],";box-sizing:border-box;margin:0 ",[0,40],"}\n.",[1],"segmented-control-item.",[1],"button.",[1],"data-v-9de56950{border-left:",[0,1]," solid}\n.",[1],"segmented-control-item.",[1],"text.",[1],"data-v-9de56950{border-left:0}\n.",[1],"segmented-control-item.",[1],"data-v-9de56950:first-child{border-left-width:0}\n.",[1],"content.",[1],"data-v-9de56950{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;align-items:center;height:",[0,300],";text-align:center}\n.",[1],"color-tag.",[1],"data-v-9de56950{width:",[0,50],";height:",[0,50],"}\n",],undefined,{path:"./pages/addfriend/addfriend.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/addfriend/addfriend.wxml') } }));
+        }
+        if(window.__uniAppViewReady__){
+          uniAppViewReadyCallback()
+        }else{
+          document.addEventListener('uniAppViewReady',uniAppViewReadyCallback)
+        }
+      })();
+      

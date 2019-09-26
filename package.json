@@ -1,0 +1,29 @@
+{
+  "name": "qq",
+  "version": "1.0.0",
+  "description": "## 运行方式 将项目拖入[HbuilderX](http://www.dcloud.io/hbuilderx.html),直接运行即可",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzibao/qq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzibao/qq/issues"
+  },
+  "homepage": "https://github.com/zhangzibao/qq#readme",
+  "devDependencies": {
+    "babel-plugin-import": "^1.11.0",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0"
+  },
+  "dependencies": {
+    "muse-ui": "^3.0.1",
+    "vue-touch": "^2.0.0-beta.4"
+  }
+}

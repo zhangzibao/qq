@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "联系人",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "添加",
+        "fontSize": "0.8em"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
