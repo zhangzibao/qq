@@ -1,3 +1,0 @@
-<import src="/components/uni-status-bar.vue.wxml" />
-<import src="/components/uni-icon.vue.wxml" />
-<import src="/components/slots" />
