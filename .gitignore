@@ -1,4 +1,4 @@
-./node_modules
-./.idea
-./csdn.md
-./unpackage
+node_modules
+.idea
+csdn.md
+unpackage
