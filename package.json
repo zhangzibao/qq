@@ -20,7 +20,7 @@
   "devDependencies": {
     "babel-plugin-import": "^1.11.0",
     "less": "^3.8.1",
-    "less-loader": "^4.1.0"
+    "less-loader": "^11.1.0"
   },
   "dependencies": {
     "muse-ui": "^3.0.1",
